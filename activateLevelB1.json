@@ -1,1 +1,32 @@
-{ "noop": true }
+{
+  "LEVEL": "B1",
+  "DISPLAY_BLOCKS": [
+    "🕊️ **B1 — Intermediate English**",
+    "",
+    "Choose your module:",
+    "",
+    "🩺 **10all** — Health and illness",
+    "🌿 **11all** — Nature and animals",
+    "🏙️ **12all** — City and shopping",
+    "💼 **13all** — Work and office",
+    "🎉 **14all** — Holidays and entertainment",
+    "👗 **15all** — Appearance and clothing",
+    "🏃 **16all** — Sport and healthy lifestyle",
+    "🎭 **17all** — Culture",
+    "🌍 **18all** — Environment",
+    "✈️ **19all** — Holiday and travel",
+    "💬 **20all** — Communication",
+    "💰 **21all** — Work and money",
+    "⚖️ **22all** — Stress, problems, law",
+    "👥 **23all** — People",
+    "📅 **24all** — My day",
+    "🏠 **25all** — Housing",
+    "🍽️ **26all** — Food and drinks",
+    "❤️ **27all** — Body and health",
+    "🎓 **28all** — Education",
+    "🎯 **29all** — Hobbies and sport",
+    "🚗 **30all** — Transport",
+    "",
+    "✍️ Type the code to continue."
+  ]
+}
