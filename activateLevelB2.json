@@ -1,24 +1,18 @@
 {
   "LEVEL": "B2",
   "DISPLAY_BLOCKS": [
-    "🐬 **B2 — Upper-Intermediate English**",
-    "",
-    "Choose your module:",
-    "",
-    "🌦️ **31all** — Animals and weather",
-    "📋 **32all** — Plans and rules",
-    "👔 **33all** — Fashion and appearance",
-    "💻 **34all** — Technology",
-    "🎧 **35all** — Audiobooks",
-    "📚 **36all** — Nouns",
-    "🛎️ **37all** — Services",
-    "❤️ **38all** — Family and relationships",
-    "🛍️ **39all** — Shopping and cities",
-    "🩺 **40all** — Health",
-    "📱 **41all** — Modern communication and media",
-    "🥗 **42all** — Food and nutrition",
-    "🍂 **43all** — Seasonal activities",
-    "",
-    "✍️ Type the code to continue."
+    "🌦️ Animals and weather → napiš **31all**",
+    "📋 Plans and rules → napiš **32all**",
+    "👔 Fashion and appearance → napiš **33all**",
+    "💻 Technology → napiš **34all**",
+    "🎧 Audiobooks → napiš **35all**",
+    "📚 Nouns → napiš **36all**",
+    "🛎️ Services → napiš **37all**",
+    "❤️ Family and relationships → napiš **38all**",
+    "🛍️ Shopping and cities → napiš **39all**",
+    "🩺 Health → napiš **40all**",
+    "📱 Modern communication and media → napiš **41all**",
+    "🥗 Food and nutrition → napiš **42all**",
+    "🍂 Seasonal activities → napiš **43all**"
   ]
 }
