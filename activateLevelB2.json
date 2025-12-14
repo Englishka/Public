@@ -1,1 +1,24 @@
-{ "noop": true }
+{
+  "LEVEL": "B2",
+  "DISPLAY_BLOCKS": [
+    "🐬 **B2 — Upper-Intermediate English**",
+    "",
+    "Choose your module:",
+    "",
+    "🌦️ **31all** — Animals and weather",
+    "📋 **32all** — Plans and rules",
+    "👔 **33all** — Fashion and appearance",
+    "💻 **34all** — Technology",
+    "🎧 **35all** — Audiobooks",
+    "📚 **36all** — Nouns",
+    "🛎️ **37all** — Services",
+    "❤️ **38all** — Family and relationships",
+    "🛍️ **39all** — Shopping and cities",
+    "🩺 **40all** — Health",
+    "📱 **41all** — Modern communication and media",
+    "🥗 **42all** — Food and nutrition",
+    "🍂 **43all** — Seasonal activities",
+    "",
+    "✍️ Type the code to continue."
+  ]
+}
