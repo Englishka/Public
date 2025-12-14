@@ -1,20 +1,14 @@
 {
   "LEVEL": "A2",
   "DISPLAY_BLOCKS": [
-    "🐱 **A2 — Elementary English**",
-    "",
-    "Choose your module:",
-    "",
-    "⏰ **4all** — Daily routine and habits",
-    "🎨 **5all** — Free time and skills",
-    "✈️ **6all** — Travel",
-    "🚌 **7all** — Transport",
-    "🎓 **8all** — School and education",
-    "👨‍👩‍👧 **9all** — Family, friends and relationships",
-    "🩺 **10all** — Health and illness",
-    "🌿 **11all** — Nature and animals",
-    "🏙️ **12all** — City and shopping",
-    "",
-    "✍️ Type the code to continue."
+    "⏰ Daily routine and habits → napiš **4all**",
+    "🎨 Free time and skills → napiš **5all**",
+    "✈️ Travel → napiš **6all**",
+    "🚌 Transport → napiš **7all**",
+    "🎓 School and education → napiš **8all**",
+    "👨‍👩‍👧 Family, friends and relationships → napiš **9all**",
+    "🩺 Health and illness → napiš **10all**",
+    "🌿 Nature and animals → napiš **11all**",
+    "🏙️ City and shopping → napiš **12all**"
   ]
 }
