@@ -1,16 +1,10 @@
 {
   "LEVEL": "A1",
   "DISPLAY_BLOCKS": [
-    "🐝 **A1 — Basic English**",
-    "",
-    "Choose your module:",
-    "",
-    "🌱 **0all** — Basics for beginners",
-    "👤 **1** — About you and your life",
-    "🏠 **2all** — Home and living",
-    "🍎 **3all** — Food",
-    "⏰ **4all** — Daily routine and habits",
-    "",
-    "✍️ Type the code to continue."
+    "🌱 Basics for beginners → napiš **0all**",
+    "👤 About you and your life → napiš **1**",
+    "🏠 Home and living → napiš **2all**",
+    "🍎 Food → napiš **3all**",
+    "⏰ Daily routine and habits → napiš **4all**"
   ]
 }
