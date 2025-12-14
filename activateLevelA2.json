@@ -1,1 +1,20 @@
-{ "noop": true }
+{
+  "LEVEL": "A2",
+  "DISPLAY_BLOCKS": [
+    "🐱 **A2 — Elementary English**",
+    "",
+    "Choose your module:",
+    "",
+    "⏰ **4all** — Daily routine and habits",
+    "🎨 **5all** — Free time and skills",
+    "✈️ **6all** — Travel",
+    "🚌 **7all** — Transport",
+    "🎓 **8all** — School and education",
+    "👨‍👩‍👧 **9all** — Family, friends and relationships",
+    "🩺 **10all** — Health and illness",
+    "🌿 **11all** — Nature and animals",
+    "🏙️ **12all** — City and shopping",
+    "",
+    "✍️ Type the code to continue."
+  ]
+}
